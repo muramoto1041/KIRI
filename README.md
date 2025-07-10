@@ -13,7 +13,7 @@
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/muramoto1041/20250709/20250709093052.png" alt="代替テキスト" width="366" height="215">
 <br/>
-
+ 
 ## 桐の操作を残し、新しく機能を追加するには
 今までの操作を残すには、旧システムのプログラムソースを残すことになります。
 
