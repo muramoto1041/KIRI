@@ -3,6 +3,7 @@
 <br/><br/>
  
 ## 桐でもExcelでもAccessでも操作できるシステムを作る。
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/muramoto1041/20241111/20241111132417.png" alt="Excel・Access・桐" width="300" height="300"><br/>
 ユーザーが業務アプリを作る環境を支援します。<br/>
 ExcelやAccessと連携して桐を使い続ける環境を作りましょう。<br/>
 <br/>
