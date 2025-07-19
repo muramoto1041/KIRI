@@ -10,5 +10,5 @@ ExcelやAccessと連携して桐を使い続ける環境を作りましょう。
 
 [プログラムの変更点]
 <!--'[Ver1.00  一括処理とイベント処理の使い分け](#) -->
-Ver1.01  イベント処理での桐の終了方法<br/>
+[Ver1.01  イベント処理での桐の終了方法](https://kiri-help.hatenablog.com/entry/v101)<br/>
 [Ver1.00  一括処理とイベント処理の使い分け](https://kiri-help.hatenablog.com/entry/v100)<br/>
